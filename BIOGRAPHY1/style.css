@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+html, body{
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+td {
+
+    animation: linear infinite;
+}
